@@ -16,9 +16,7 @@ public class Program {
 		
 		Locale.setDefault(Locale.US);
 
-		//Department department = new Department(1, "GTI");
-		
-		//System.out.println(department);
+		System.out.println("### Teste 1 - Seller findBYId ###");
 		
 		SellerDao sellerDao = DaoFactory.createSellerDao();
 
