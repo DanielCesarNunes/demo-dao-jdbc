@@ -32,7 +32,7 @@ public class DepartmentDaoJDBC implements DepartmentDao{
 	}
 
 	@Override
-	public void deleteById(Department department) {
+	public void deleteById(Integer id) {
 		// TODO Auto-generated method stub
 		
 	}
